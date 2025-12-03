@@ -40,8 +40,6 @@ Loads the processed dataset, applies preprocessing (resizing, normalization, aug
 ## References
 
 [1] Bijoy, Md Hasan Imam; Tasnim, Syeda Zarin; Awsaf, Syed Ali; Hasan, Md Zahid (2025), “FruitVision: A Benchmark Dataset for Fresh, Rotten, and Formalin-mixed Fruit Detection”, Mendeley Data, V2, doi: 10.17632/xkbjx8959c.2  
-[2] He, K., Zhang, X., Ren, S., & Sun, J. (2016). *Deep Residual Learning for Image Recognition.* CVPR.  
-[3] Chollet, F. (2017). *Deep Learning with Python.* Manning Publications.  
-[4] Brownlee, J. (2019). *A Gentle Introduction to Transfer Learning for Deep Learning.* Machine Learning Mastery.  
-[5] TensorFlow Documentation — Transfer Learning Guide: https://www.tensorflow.org/tutorials/images/transfer_learning  
+[2] Shin, L. (2023). Chapter 3 — Transfer Learning with ResNet50: From Dataloaders to Training (Seed of Thought). Medium. https://medium.com/@lucrece.shin/chapter-3-transfer-learning-with-resnet50-from-dataloaders-to-training-seed-of-thought-67aaf83155bc  
+[3] Paralect Team. (2022). Transfer Learning Applied. Paralect Blog. https://www.paralect.com/blog/post/transfer-learning-applied
 
